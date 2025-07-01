@@ -45,7 +45,7 @@ streamlit run main.py ///for web access
 
 🙋‍♂️ Author
 Bibek Parajuli
-🔒 Cybersecurity & Full-Stack Developer student
+🔒 Cybersecurity & web Developement student
 
 📜 License
 Free for educational and non-commercial use.
